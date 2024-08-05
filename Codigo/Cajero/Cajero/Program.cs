@@ -227,7 +227,7 @@ namespace Cajero
                     }
                 }
             }
-            public void consignar(Cuentas cuenta)
+            public void consigna(Cuentas cuenta)
             {
                 //Cantidad a consignar y fecha
                 Console.WriteLine("Digite la cantidad a consignar: ");
